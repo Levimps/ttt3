@@ -1,0 +1,10 @@
+H:\158326\Lab3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csprojAssemblyReference.cache
+H:\158326\Lab3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.Form1.resources
+H:\158326\Lab3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.Properties.Resources.resources
+H:\158326\Lab3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csproj.GenerateResource.cache
+H:\158326\Lab3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csproj.CoreCompileInputs.cache
+H:\158326\Lab3\Tutorial3\Tutorial3\bin\Debug\Tutorial3.exe.config
+H:\158326\Lab3\Tutorial3\Tutorial3\bin\Debug\Tutorial3.exe
+H:\158326\Lab3\Tutorial3\Tutorial3\bin\Debug\Tutorial3.pdb
+H:\158326\Lab3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.exe
+H:\158326\Lab3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.pdb
